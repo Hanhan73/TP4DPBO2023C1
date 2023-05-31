@@ -12,6 +12,8 @@ Download Kode PHP pada link berikut ini TP MVC.
 
 ## Desain Program
 
+![image](https://github.com/Hanhan73/TP4DPBO2023C1/assets/96176429/345d7765-f4ff-47ea-88b5-10471bffc526)
+
 ## Alur Program
 
 ## Dokumentasi
